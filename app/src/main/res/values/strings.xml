@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">android-dashboard-problem</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="job_stats">Job stats</string>
+    <string name="invoice_stats">Invoice Stats</string>
+    <string name="welcome_message">Hello, Henry Jones!</string>
+    <string name="jobs">%d Jobs</string>
+    <string name="job_completed">%d of %d completed</string>
+    <string name="yet_to_start">Yet to start (%s)</string>
+    <string name="inProgress">In-progress (%s)</string>
+    <string name="cancelled">Cancelled (%s)</string>
+    <string name="completed">Completed (%s)</string>
+    <string name="in_completed">In-Completed (%s)</string>
+    <string name="draft">Draft ($%s)</string>
+    <string name="paid">Paid ($%s)</string>
+    <string name="pending">Pending ($%s)</string>
+    <string name="bad_debt">Bad Debt ($%s)</string>
+    <string name="total_value">Total Value ($%s)</string>
+    <string name="collected">$%s collected</string>
+    <string name="date_time">%s - %s</string>
+</resources>
